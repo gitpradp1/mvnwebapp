@@ -1,0 +1,12 @@
+		<classpathentry kind="src" path="target/generated-sources/swagger/src/main/java">
+			<attributes>
+				<attribute name="optional" value="true"/>
+				<attribute name="maven.pomderived" value="true"/>
+			</attributes>
+		</classpathentry>
+		<classpathentry kind="src" path="project-app/target/generated-sources/swagger/src/main/java">
+			<attributes>
+				<attribute name="optional" value="true" />
+				<attribute name="maven.pomderived" value="true" />
+			</attributes>
+		</classpathentry>
